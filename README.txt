@@ -1,8 +1,5 @@
 README for Chat Application
 Michael Ha
-ICS 460-01
-Professor Armitage
-07/25/2023
 ==================================
 
 This directory contains the source files and additional resources for the Chat Application. The application is a basic chat system that allows users to communicate in real-time. Users can send both public and private messages, and a simple authentication mechanism has been added for registered users.
