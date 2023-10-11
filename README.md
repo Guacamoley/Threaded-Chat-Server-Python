@@ -20,13 +20,15 @@ This directory contains the source files and additional resources for the Chat A
 This application is developed in Python and does not require any compilation. To run the server or client, you just need a Python interpreter.
 
 **To run the server:**
+```bash
 $ python3 chatserver.py <Port>
-
+```
 Replace `<Port>` with the port number you want the server to listen on (e.g., `5000`).
 
 **To run the client:**
+```bash
 $ python3 chatclient.py <Server_Name> <Port> <Username>
-
+```
 Replace `<Server_Name>` with the hostname or IP address of the server, `<Port>` with the port number the server is listening on, and `<Username>` with your desired username.
 
 ##License
