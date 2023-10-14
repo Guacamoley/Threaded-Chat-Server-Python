@@ -31,5 +31,5 @@ $ python3 chatclient.py <Server_Name> <Port> <Username>
 ```
 Replace `<Server_Name>` with the hostname or IP address of the server, `<Port>` with the port number the server is listening on, and `<Username>` with your desired username.
 
-##License
+#License
 This project is licensed under the [Do What The F\*ck You Want To Public License (WTFPL)](LICENSE). You are free to do whatever the f\*ck you want with this code.
